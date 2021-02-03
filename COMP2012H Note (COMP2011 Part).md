@@ -1,3 +1,5 @@
+**IMPORTANT**: This note summarizes COMP2011 contents with a little part of COMP2012.
+
 # COMP2012H Note
 
 ## Include Directive
