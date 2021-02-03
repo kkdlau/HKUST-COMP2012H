@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>terrain_images/forest.png</file>
+        <file>terrain_images/hills.png</file>
+        <file>terrain_images/mountain.png</file>
+        <file>terrain_images/outofbounds.png</file>
+        <file>terrain_images/plains.png</file>
+        <file>terrain_images/water1.png</file>
+        <file>terrain_images/water2.png</file>
+        <file>terrain_images/water3.png</file>
+        <file>terrain_images/water4.png</file>
+        <file>unit_images/archer_blue.png</file>
+        <file>unit_images/archer_gray.png</file>
+        <file>unit_images/archer_green.png</file>
+        <file>unit_images/archer_red.png</file>
+        <file>unit_images/archer_yellow.png</file>
+        <file>unit_images/cavalry_blue.png</file>
+        <file>unit_images/cavalry_gray.png</file>
+        <file>unit_images/cavalry_green.png</file>
+        <file>unit_images/cavalry_red.png</file>
+        <file>unit_images/cavalry_yellow.png</file>
+        <file>unit_images/infantry_blue.png</file>
+        <file>unit_images/infantry_gray.png</file>
+        <file>unit_images/infantry_green.png</file>
+        <file>unit_images/infantry_red.png</file>
+        <file>unit_images/infantry_yellow.png</file>
+        <file>unit_images/pikeman_blue.png</file>
+        <file>unit_images/pikeman_gray.png</file>
+        <file>unit_images/pikeman_green.png</file>
+        <file>unit_images/pikeman_red.png</file>
+        <file>unit_images/pikeman_yellow.png</file>
+    </qresource>
+</RCC>

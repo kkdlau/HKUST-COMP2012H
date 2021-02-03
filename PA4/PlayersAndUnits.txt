@@ -1,0 +1,10 @@
+2
+Red 4
+A Swordsman 4 7
+B Swordsman 5 6
+C Knight 3 6
+D Knight 4 5
+Blue 3
+X Pikeman 3 21
+Y Pikeman 4 22
+Z Archer 11 22

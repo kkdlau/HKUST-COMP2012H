@@ -1,0 +1,622 @@
+====constrained_cells start====
+D1, E1, U1, W1, E2, U2, V2, W2, E3, F3, G3, H3, J4, K4, L4, L5, M5, N5, O5, O6, 
+O7, O8, P8, Q8, R8, S8, T8, U8, V10, V11, W13, X13, Y13, Y14, F23, F24, I24, J24, K24, L24, 
+M24, F25, M25, 
+====constrained_cells end====
+
+====unconstrained_cells start====
+F1, G1, H1, I1, J1, K1, L1, M1, N1, O1, P1, Q1, R1, S1, T1, X1, Y1, F2, G2, H2, 
+I2, J2, K2, L2, M2, N2, O2, P2, Q2, R2, S2, T2, X2, Y2, I3, J3, K3, L3, M3, N3, 
+O3, P3, Q3, R3, S3, T3, U3, V3, W3, X3, Y3, M4, N4, O4, P4, Q4, R4, S4, T4, U4, 
+V4, W4, X4, Y4, P5, Q5, R5, S5, T5, U5, V5, W5, X5, Y5, P6, Q6, R6, S6, T6, U6, 
+V6, W6, X6, Y6, P7, Q7, R7, S7, T7, U7, V7, W7, X7, Y7, V8, W8, X8, Y8, V9, W9, 
+X9, Y9, W10, X10, Y10, W11, X11, Y11, W12, X12, Y12, G23, H23, G24, H24, G25, H25, I25, J25, K25, 
+L25, 
+====unconstrained_cells end====
+constrained_length: 43
+unconstrained_length: 121
+upper_bound: 39
+lower_bound: -82
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+save - used flag: 16
+save - used flag: 17
+D1: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+E1: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+U1: always safe: false, always_flagged:false. num_safe | num_flagged: 192 | 128
+W1: always safe: false, always_flagged:false. num_safe | num_flagged: 192 | 128
+E2: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+U2: always safe: false, always_flagged:false. num_safe | num_flagged: 192 | 128
+V2: always safe: false, always_flagged:false. num_safe | num_flagged: 192 | 128
+W2: always safe: false, always_flagged:false. num_safe | num_flagged: 192 | 128
+E3: always safe: false, always_flagged:true. num_safe | num_flagged: 0 | 320
+F3: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+G3: always safe: false, always_flagged:true. num_safe | num_flagged: 0 | 320
+H3: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+J4: always safe: false, always_flagged:false. num_safe | num_flagged: 160 | 160
+K4: always safe: false, always_flagged:false. num_safe | num_flagged: 160 | 160
+L4: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+L5: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+M5: always safe: false, always_flagged:true. num_safe | num_flagged: 0 | 320
+N5: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+O5: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+O6: always safe: false, always_flagged:false. num_safe | num_flagged: 160 | 160
+O7: always safe: false, always_flagged:false. num_safe | num_flagged: 160 | 160
+O8: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+P8: always safe: false, always_flagged:true. num_safe | num_flagged: 0 | 320
+Q8: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+R8: always safe: false, always_flagged:true. num_safe | num_flagged: 0 | 320
+S8: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+T8: always safe: false, always_flagged:true. num_safe | num_flagged: 0 | 320
+U8: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+V10: always safe: false, always_flagged:false. num_safe | num_flagged: 160 | 160
+V11: always safe: false, always_flagged:false. num_safe | num_flagged: 160 | 160
+W13: always safe: false, always_flagged:false. num_safe | num_flagged: 160 | 160
+X13: always safe: false, always_flagged:false. num_safe | num_flagged: 160 | 160
+Y13: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+Y14: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+F23: always safe: false, always_flagged:false. num_safe | num_flagged: 160 | 160
+F24: always safe: false, always_flagged:false. num_safe | num_flagged: 160 | 160
+I24: always safe: false, always_flagged:true. num_safe | num_flagged: 0 | 320
+J24: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+K24: always safe: false, always_flagged:true. num_safe | num_flagged: 0 | 320
+L24: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+M24: always safe: false, always_flagged:true. num_safe | num_flagged: 0 | 320
+F25: always safe: false, always_flagged:false. num_safe | num_flagged: 160 | 160
+M25: always safe: true, always_flagged:false. num_safe | num_flagged: 320 | 0
+
+   A B C D E F G H I J K L M N O P Q R S T U V W X Y
+ 1 . 2 x 2 . . 1 o o o o o o o o o o o o o o 2 o o o
+ 2 . 2 x 4 2 2 2 o o o o o o o o o o o o o o o o o o
+ 3 . 1 3 x x 2 x 4 o o o o o o o o o o o o o o o o o
+ 4 . 1 3 x 3 3 3 x x o o 3 o o o o o o o o o o o o o
+ 5 1 2 x 2 1 1 x 4 x 4 2 2 x 2 1 o o o o o o o o o o
+ 6 x 2 1 1 . 2 2 4 3 4 x 2 1 2 o o o o o o o o o o o
+ 7 1 1 . . . 1 x 2 x x 2 1 1 2 o o o o o o o o o o o
+ 8 . . 1 1 1 1 1 2 2 2 1 . 2 x 3 x 4 x 4 x 3 o o o o
+ 9 2 2 2 x 2 2 1 1 . . . . 2 x 3 1 2 1 2 3 x o o o o
+10 x x 3 3 x 3 x 1 . . . . 2 2 3 2 2 1 . 2 x o o o o
+11 3 x 2 2 x 3 1 1 . 1 1 1 1 x 2 x x 1 . 2 4 o o 1 1
+12 1 1 1 1 1 1 . . . 2 x 2 1 1 2 2 2 1 . 1 x x o 1 .
+13 . 1 2 2 1 . . . . 3 x 3 . . 1 1 1 . . 1 4 x o 1 .
+14 . 1 x x 2 1 1 2 2 3 x 2 . . 1 x 1 . . . 2 x 4 3 2
+15 1 2 2 3 x 1 2 x x 3 1 1 . . 1 1 1 . . 1 2 3 3 x x
+16 x 3 1 1 1 1 2 x x 2 1 1 2 2 2 1 . . . 1 x 2 x 4 x
+17 x x 3 3 3 2 2 2 2 1 1 x 2 x x 1 . . . 2 3 4 2 2 1
+18 2 3 x x x x 1 . . 1 2 2 2 2 2 1 . . . 1 x x 1 . .
+19 1 2 4 x 4 2 1 . . 1 x 1 . . 1 1 1 . . 1 2 2 1 . .
+20 1 x 2 1 1 1 1 2 1 2 1 1 . . 1 x 2 1 . . . . . . .
+21 2 2 2 1 2 4 x 5 x 2 . . . . 1 2 x 1 . . . 1 1 1 .
+22 1 x 1 1 x x x x x 3 . 1 2 2 1 1 2 2 1 . . 1 x 1 .
+23 1 1 1 2 4 o o o x 4 1 3 x x 1 . 1 x 1 1 2 4 4 3 1
+24 . . . 1 x o o o x 3 x 3 x 4 2 1 1 2 2 2 x x x x 2
+25 . . . 1 2 o o o o o o o 1 2 x 1 . 1 x 2 2 3 3 3 x
+
+Flags Left: 30
+Safe cells left: 98
+Wrong flag: 0
+
+
+====constrained_cells start====
+H1, I1, H2, I2, I3, F23, F24, H24, F25, H25, 
+====constrained_cells end====
+
+====unconstrained_cells start====
+G23, H23, G24, G25, 
+====unconstrained_cells end====
+constrained_length: 10
+unconstrained_length: 4
+upper_bound: 7
+lower_bound: 3
+save - used flag: 4
+save - used flag: 4
+save - used flag: 5
+save - used flag: 5
+save - used flag: 5
+save - used flag: 5
+save - used flag: 6
+save - used flag: 6
+H1: always safe: false, always_flagged:true. num_safe | num_flagged: 0 | 8
+I1: always safe: false, always_flagged:false. num_safe | num_flagged: 4 | 4
+H2: always safe: true, always_flagged:false. num_safe | num_flagged: 8 | 0
+I2: always safe: false, always_flagged:false. num_safe | num_flagged: 4 | 4
+I3: always safe: false, always_flagged:false. num_safe | num_flagged: 4 | 4
+F23: always safe: false, always_flagged:false. num_safe | num_flagged: 4 | 4
+F24: always safe: false, always_flagged:false. num_safe | num_flagged: 4 | 4
+H24: always safe: false, always_flagged:false. num_safe | num_flagged: 4 | 4
+F25: always safe: false, always_flagged:false. num_safe | num_flagged: 4 | 4
+H25: always safe: false, always_flagged:false. num_safe | num_flagged: 4 | 4
+
+   A B C D E F G H I J K L M N O P Q R S T U V W X Y
+ 1 . 2 x 2 . . 1 x o 2 1 . . . . . . . . 1 x 2 1 . .
+ 2 . 2 x 4 2 2 2 3 o x 2 2 2 1 . . . . 1 2 4 x 3 1 .
+ 3 . 1 3 x x 2 x 4 o 4 3 x x 1 . . . . 1 x 3 x x 1 .
+ 4 . 1 3 x 3 3 3 x x x 2 3 3 2 . 1 1 1 1 1 3 3 3 1 .
+ 5 1 2 x 2 1 1 x 4 x 4 2 2 x 2 1 2 x 2 1 2 2 x 1 . .
+ 6 x 2 1 1 . 2 2 4 3 4 x 2 1 2 x 3 3 5 x 3 x 2 1 . .
+ 7 1 1 . . . 1 x 2 x x 2 1 1 2 3 3 x x x 4 2 1 . 1 1
+ 8 . . 1 1 1 1 1 2 2 2 1 . 2 x 3 x 4 x 4 x 3 2 1 2 x
+ 9 2 2 2 x 2 2 1 1 . . . . 2 x 3 1 2 1 2 3 x x 2 3 x
+10 x x 3 3 x 3 x 1 . . . . 2 2 3 2 2 1 . 2 x 4 3 x 2
+11 3 x 2 2 x 3 1 1 . 1 1 1 1 x 2 x x 1 . 2 4 x 3 1 1
+12 1 1 1 1 1 1 . . . 2 x 2 1 1 2 2 2 1 . 1 x x 4 1 .
+13 . 1 2 2 1 . . . . 3 x 3 . . 1 1 1 . . 1 4 x x 1 .
+14 . 1 x x 2 1 1 2 2 3 x 2 . . 1 x 1 . . . 2 x 4 3 2
+15 1 2 2 3 x 1 2 x x 3 1 1 . . 1 1 1 . . 1 2 3 3 x x
+16 x 3 1 1 1 1 2 x x 2 1 1 2 2 2 1 . . . 1 x 2 x 4 x
+17 x x 3 3 3 2 2 2 2 1 1 x 2 x x 1 . . . 2 3 4 2 2 1
+18 2 3 x x x x 1 . . 1 2 2 2 2 2 1 . . . 1 x x 1 . .
+19 1 2 4 x 4 2 1 . . 1 x 1 . . 1 1 1 . . 1 2 2 1 . .
+20 1 x 2 1 1 1 1 2 1 2 1 1 . . 1 x 2 1 . . . . . . .
+21 2 2 2 1 2 4 x 5 x 2 . . . . 1 2 x 1 . . . 1 1 1 .
+22 1 x 1 1 x x x x x 3 . 1 2 2 1 1 2 2 1 . . 1 x 1 .
+23 1 1 1 2 4 o o o x 4 1 3 x x 1 . 1 x 1 1 2 4 4 3 1
+24 . . . 1 x o o o x 3 x 3 x 4 2 1 1 2 2 2 x x x x 2
+25 . . . 1 2 o o o 2 2 1 2 1 2 x 1 . 1 x 2 2 3 3 3 x
+
+Flags Left: 6
+Safe cells left: 6
+Wrong flag: 0
+
+
+====constrained_cells start====
+I1, I2, I3, F23, F24, H24, F25, H25, 
+====constrained_cells end====
+
+====unconstrained_cells start====
+G23, H23, G24, G25, 
+====unconstrained_cells end====
+constrained_length: 8
+unconstrained_length: 4
+upper_bound: 6
+lower_bound: 2
+save - used flag: 3
+save - used flag: 3
+save - used flag: 4
+save - used flag: 4
+I1: always safe: true, always_flagged:false. num_safe | num_flagged: 4 | 0
+I2: always safe: false, always_flagged:true. num_safe | num_flagged: 0 | 4
+I3: always safe: true, always_flagged:false. num_safe | num_flagged: 4 | 0
+F23: always safe: false, always_flagged:false. num_safe | num_flagged: 2 | 2
+F24: always safe: false, always_flagged:false. num_safe | num_flagged: 2 | 2
+H24: always safe: false, always_flagged:false. num_safe | num_flagged: 2 | 2
+F25: always safe: false, always_flagged:false. num_safe | num_flagged: 2 | 2
+H25: always safe: false, always_flagged:false. num_safe | num_flagged: 2 | 2
+
+   A B C D E F G H I J K L M N O P Q R S T U V W X Y
+ 1 . 2 x 2 . . 1 x 3 2 1 . . . . . . . . 1 x 2 1 . .
+ 2 . 2 x 4 2 2 2 3 x x 2 2 2 1 . . . . 1 2 4 x 3 1 .
+ 3 . 1 3 x x 2 x 4 5 4 3 x x 1 . . . . 1 x 3 x x 1 .
+ 4 . 1 3 x 3 3 3 x x x 2 3 3 2 . 1 1 1 1 1 3 3 3 1 .
+ 5 1 2 x 2 1 1 x 4 x 4 2 2 x 2 1 2 x 2 1 2 2 x 1 . .
+ 6 x 2 1 1 . 2 2 4 3 4 x 2 1 2 x 3 3 5 x 3 x 2 1 . .
+ 7 1 1 . . . 1 x 2 x x 2 1 1 2 3 3 x x x 4 2 1 . 1 1
+ 8 . . 1 1 1 1 1 2 2 2 1 . 2 x 3 x 4 x 4 x 3 2 1 2 x
+ 9 2 2 2 x 2 2 1 1 . . . . 2 x 3 1 2 1 2 3 x x 2 3 x
+10 x x 3 3 x 3 x 1 . . . . 2 2 3 2 2 1 . 2 x 4 3 x 2
+11 3 x 2 2 x 3 1 1 . 1 1 1 1 x 2 x x 1 . 2 4 x 3 1 1
+12 1 1 1 1 1 1 . . . 2 x 2 1 1 2 2 2 1 . 1 x x 4 1 .
+13 . 1 2 2 1 . . . . 3 x 3 . . 1 1 1 . . 1 4 x x 1 .
+14 . 1 x x 2 1 1 2 2 3 x 2 . . 1 x 1 . . . 2 x 4 3 2
+15 1 2 2 3 x 1 2 x x 3 1 1 . . 1 1 1 . . 1 2 3 3 x x
+16 x 3 1 1 1 1 2 x x 2 1 1 2 2 2 1 . . . 1 x 2 x 4 x
+17 x x 3 3 3 2 2 2 2 1 1 x 2 x x 1 . . . 2 3 4 2 2 1
+18 2 3 x x x x 1 . . 1 2 2 2 2 2 1 . . . 1 x x 1 . .
+19 1 2 4 x 4 2 1 . . 1 x 1 . . 1 1 1 . . 1 2 2 1 . .
+20 1 x 2 1 1 1 1 2 1 2 1 1 . . 1 x 2 1 . . . . . . .
+21 2 2 2 1 2 4 x 5 x 2 . . . . 1 2 x 1 . . . 1 1 1 .
+22 1 x 1 1 x x x x x 3 . 1 2 2 1 1 2 2 1 . . 1 x 1 .
+23 1 1 1 2 4 o o o x 4 1 3 x x 1 . 1 x 1 1 2 4 4 3 1
+24 . . . 1 x o o o x 3 x 3 x 4 2 1 1 2 2 2 x x x x 2
+25 . . . 1 2 o o o 2 2 1 2 1 2 x 1 . 1 x 2 2 3 3 3 x
+
+Flags Left: 5
+Safe cells left: 4
+Wrong flag: 0
+
+
+====constrained_cells start====
+F23, F24, H24, F25, H25, 
+====constrained_cells end====
+
+====unconstrained_cells start====
+G23, H23, G24, G25, 
+====unconstrained_cells end====
+constrained_length: 5
+unconstrained_length: 4
+upper_bound: 5
+lower_bound: 1
+save - used flag: 2
+save - used flag: 2
+save - used flag: 3
+save - used flag: 3
+F23: always safe: false, always_flagged:false. num_safe | num_flagged: 2 | 2
+F24: always safe: false, always_flagged:false. num_safe | num_flagged: 2 | 2
+H24: always safe: false, always_flagged:false. num_safe | num_flagged: 2 | 2
+F25: always safe: false, always_flagged:false. num_safe | num_flagged: 2 | 2
+H25: always safe: false, always_flagged:false. num_safe | num_flagged: 2 | 2
+
+   A B C D E F G H I J K L M N O P Q R S T U V W X Y
+ 1 . 2 x 2 . . 1 x 3 2 1 . . . . . . . . 1 x 2 1 . .
+ 2 . 2 x 4 2 2 2 3 x x 2 2 2 1 . . . . 1 2 4 x 3 1 .
+ 3 . 1 3 x x 2 x 4 5 4 3 x x 1 . . . . 1 x 3 x x 1 .
+ 4 . 1 3 x 3 3 3 x x x 2 3 3 2 . 1 1 1 1 1 3 3 3 1 .
+ 5 1 2 x 2 1 1 x 4 x 4 2 2 x 2 1 2 x 2 1 2 2 x 1 . .
+ 6 x 2 1 1 . 2 2 4 3 4 x 2 1 2 x 3 3 5 x 3 x 2 1 . .
+ 7 1 1 . . . 1 x 2 x x 2 1 1 2 3 3 x x x 4 2 1 . 1 1
+ 8 . . 1 1 1 1 1 2 2 2 1 . 2 x 3 x 4 x 4 x 3 2 1 2 x
+ 9 2 2 2 x 2 2 1 1 . . . . 2 x 3 1 2 1 2 3 x x 2 3 x
+10 x x 3 3 x 3 x 1 . . . . 2 2 3 2 2 1 . 2 x 4 3 x 2
+11 3 x 2 2 x 3 1 1 . 1 1 1 1 x 2 x x 1 . 2 4 x 3 1 1
+12 1 1 1 1 1 1 . . . 2 x 2 1 1 2 2 2 1 . 1 x x 4 1 .
+13 . 1 2 2 1 . . . . 3 x 3 . . 1 1 1 . . 1 4 x x 1 .
+14 . 1 x x 2 1 1 2 2 3 x 2 . . 1 x 1 . . . 2 x 4 3 2
+15 1 2 2 3 x 1 2 x x 3 1 1 . . 1 1 1 . . 1 2 3 3 x x
+16 x 3 1 1 1 1 2 x x 2 1 1 2 2 2 1 . . . 1 x 2 x 4 x
+17 x x 3 3 3 2 2 2 2 1 1 x 2 x x 1 . . . 2 3 4 2 2 1
+18 2 3 x x x x 1 . . 1 2 2 2 2 2 1 . . . 1 x x 1 . .
+19 1 2 4 x 4 2 1 . . 1 x 1 . . 1 1 1 . . 1 2 2 1 . .
+20 1 x 2 1 1 1 1 2 1 2 1 1 . . 1 x 2 1 . . . . . . .
+21 2 2 2 1 2 4 x 5 x 2 . . . . 1 2 x 1 . . . 1 1 1 .
+22 1 x 1 1 x x x x x 3 . 1 2 2 1 1 2 2 1 . . 1 x 1 .
+23 1 1 1 2 4 o o o x 4 1 3 x x 1 . 1 x 1 1 2 4 4 3 1
+24 . . . 1 x o o o x 3 x 3 x 4 2 1 1 2 2 2 x x x x 2
+25 . . . 1 2 o o o 2 2 1 2 1 2 x 1 . 1 x 2 2 3 3 3 x
+
+Flags Left: 5
+Safe cells left: 4
+Wrong flag: 0
+
+
+   A B C D E F G H I J K L M N O P Q R S T U V W X Y
+ 1 . 2 x 2 . . 1 x 3 2 1 . . . . . . . . 1 x 2 1 . .
+ 2 . 2 x 4 2 2 2 3 x x 2 2 2 1 . . . . 1 2 4 x 3 1 .
+ 3 . 1 3 x x 2 x 4 5 4 3 x x 1 . . . . 1 x 3 x x 1 .
+ 4 . 1 3 x 3 3 3 x x x 2 3 3 2 . 1 1 1 1 1 3 3 3 1 .
+ 5 1 2 x 2 1 1 x 4 x 4 2 2 x 2 1 2 x 2 1 2 2 x 1 . .
+ 6 x 2 1 1 . 2 2 4 3 4 x 2 1 2 x 3 3 5 x 3 x 2 1 . .
+ 7 1 1 . . . 1 x 2 x x 2 1 1 2 3 3 x x x 4 2 1 . 1 1
+ 8 . . 1 1 1 1 1 2 2 2 1 . 2 x 3 x 4 x 4 x 3 2 1 2 x
+ 9 2 2 2 x 2 2 1 1 . . . . 2 x 3 1 2 1 2 3 x x 2 3 x
+10 x x 3 3 x 3 x 1 . . . . 2 2 3 2 2 1 . 2 x 4 3 x 2
+11 3 x 2 2 x 3 1 1 . 1 1 1 1 x 2 x x 1 . 2 4 x 3 1 1
+12 1 1 1 1 1 1 . . . 2 x 2 1 1 2 2 2 1 . 1 x x 4 1 .
+13 . 1 2 2 1 . . . . 3 x 3 . . 1 1 1 . . 1 4 x x 1 .
+14 . 1 x x 2 1 1 2 2 3 x 2 . . 1 x 1 . . . 2 x 4 3 2
+15 1 2 2 3 x 1 2 x x 3 1 1 . . 1 1 1 . . 1 2 3 3 x x
+16 x 3 1 1 1 1 2 x x 2 1 1 2 2 2 1 . . . 1 x 2 x 4 x
+17 x x 3 3 3 2 2 2 2 1 1 x 2 x x 1 . . . 2 3 4 2 2 1
+18 2 3 x x x x 1 . . 1 2 2 2 2 2 1 . . . 1 x x 1 . .
+19 1 2 4 x 4 2 1 . . 1 x 1 . . 1 1 1 . . 1 2 2 1 . .
+20 1 x 2 1 1 1 1 2 1 2 1 1 . . 1 x 2 1 . . . . . . .
+21 2 2 2 1 2 4 x 5 x 2 . . . . 1 2 x 1 . . . 1 1 1 .
+22 1 x 1 1 x x x x x 3 . 1 2 2 1 1 2 2 1 . . 1 x 1 .
+23 1 1 1 2 4 o o o x 4 1 3 x x 1 . 1 x 1 1 2 4 4 3 1
+24 . . . 1 x o o o x 3 x 3 x 4 2 1 1 2 2 2 x x x x 2
+25 . . . 1 2 o o o 2 2 1 2 1 2 x 1 . 1 x 2 2 3 3 3 x
+
+Flags Left: 5
+Safe cells left: 4
+Wrong flag: 0
+
+Choose one of the following actions:
+0: Reveal cell
+1: Toggle flag
+2: Solve locally
+3: Solve globally
